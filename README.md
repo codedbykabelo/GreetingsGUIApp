@@ -17,7 +17,7 @@ This is a simple Java Swing GUI application that displays a form to enter a name
   - GridLayout
 - Panels used to group and position components cleanly
 
-> Note: The buttons are for visual layout only — they are not connected to any functionality.
+Note: The buttons are for visual layout only — they are not connected to any functionality.
 
  Technologies Used
 - Java
